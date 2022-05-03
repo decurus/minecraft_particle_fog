@@ -1,0 +1,10 @@
+{
+  "format_version": "1.16.0",
+  "noisebytes:fogblock": {
+    "textures": "fog_texture",
+    "sound": "dirt",
+    "materials":{
+      "default": "glass"
+    }
+  }
+}

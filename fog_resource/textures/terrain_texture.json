@@ -1,0 +1,10 @@
+{
+  "resource_pack_name" : "Foggy Water",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "texture_data": {
+    "fog_texture": {
+      "textures": ["textures/blocks/fog_texture_transparent"]
+    }
+  }
+}

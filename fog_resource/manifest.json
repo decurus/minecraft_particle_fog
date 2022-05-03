@@ -1,0 +1,18 @@
+{
+  "format_version":2,
+  "header": {
+    "description": "The Fog Block for the Fog Behaviour Pack",
+    "name": "Fog Block Resource Pack",
+    "uuid": "ec266762-0d18-4dd3-90d7-403f674eec5b",
+    "version": [0,0,1],
+    "min_engine_version": [1,16,0]
+  },
+  "modules": [
+    {
+      "description": "Fog Block",
+      "type": "resources",
+      "uuid": "bf0bed44-23a6-425b-934b-a0216594497a",
+      "version": [0,0,1]
+    }
+  ]
+}
