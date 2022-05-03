@@ -1,6 +1,11 @@
 # minecraft_particle_fog
 
 Fog particle effects for Minecraft
+
+![fog_1](https://user-images.githubusercontent.com/25495079/166561036-379c942b-c8a3-4240-b137-601161f963c9.PNG)
+![fog_2](https://user-images.githubusercontent.com/25495079/166561039-f9dd3ba5-26b3-4507-b3e8-03025001cebc.PNG)
+![fog_3](https://user-images.githubusercontent.com/25495079/166561041-82b5cf00-0d84-44ff-acba-c1b1f0cccd2b.PNG)
+
 Note: This is just a fun side project. No garantue for updates, bugfixes or whatever. I will work on it, when I work on it. Plus: Its open source.
 
 ## How to install
