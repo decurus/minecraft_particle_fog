@@ -9,9 +9,15 @@ Fog particle effects for Minecraft
 Note: This is just a fun side project. No garantue for updates, bugfixes or whatever. I will work on it, when I work on it. Plus: Its open source.
 
 ## How to install
-All Add-Ons are located in C:\Users\---username---\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
-There you will find a folder named resource_packs and a folder named behavior_packs.
-Just put the fog_behavior into the behavior_pacs folder and the fog_resource into the resource_packs folder.
+All Add-Ons are located in:
+
+> C:\Users\---username---\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
+
+1. Copy the folder fog_behavior into the folder behavior_packs
+2. Copy the folder fog_resources into the folder resource_packs
+3. In your world, enable experimental features
+4. Now enable GameTest-Framework and Molang-Functions
+5. Add the behavior pack to your world from the menu (the resource pack should be added automatically)
 
 When you want to use the addon you have to enable the GameTest-Framework and Molang-Functions in experimental features.
 Now you can add the behaviour pack, the resource pack should be added automatically.
